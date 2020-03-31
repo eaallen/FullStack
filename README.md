@@ -1,0 +1,2 @@
+# FullStack
+React, Django, SQLite
